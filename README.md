@@ -70,9 +70,18 @@ Exception Handling
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![ToDo App](todo-app.png)
+### 🖥️ Main UI
+![Main UI](MainUI.jpeg)
+
+### 📝 Tasks Added
+![Tasks Added](TasksAdded.jpeg)
+
+### ✅ Marked Done
+![Marked Done](Marked Done.jpeg)
+
+
 
 
 👩‍💻 Author
